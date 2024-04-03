@@ -6,6 +6,7 @@ This project provides a set of APIs to fetch and analyze COVID-19 data using Spa
 
 1. Clone the repository:
 2. Install Dependencies
+3. Execute driver.py
 
 ## API Endpoints
 /: Home page with links to fetch data and convert it into a csv file. It displays all available APIs. <br>
