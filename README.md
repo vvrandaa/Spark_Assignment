@@ -8,7 +8,7 @@ This project provides a set of APIs to fetch and analyze COVID-19 data using Spa
 2. Install Dependencies
 
 ## API Endpoints
-/: Home page with links to fetch data and convert it into a csv file. It displays all available APIs.
+/: Home page with links to fetch data and convert it into a csv file. It displays all available APIs. <br>
 /most-affected-country: Returns the most affected country by COVID-19.
 /least-affected-country: Returns the least affected country by COVID-19.
 /country-with-highest-cases: Returns the country with the highest number of COVID-19 cases.
