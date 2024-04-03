@@ -5,10 +5,7 @@ This project provides a set of APIs to fetch and analyze COVID-19 data using Spa
 ## Installation
 
 1. Clone the repository:
-
-git clone https://github.com/your_username/Spark_Assignment.git
-
-## Install Dependencies
+2. Install Dependencies
 
 ## API Endpoints
 /: Home page with links to fetch data and convert it into a csv file. It displays all available APIs.
